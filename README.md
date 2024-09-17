@@ -1,4 +1,4 @@
-# Projeto: Venda Fácil de Carros
+# Projeto: Venda fácil de carros
 Este projeto é um **formulário interativo** para cadastro de veículos, que permite aos usuários descreverem e anunciarem seus carros de maneira eficiente. A página oferece um design simples e responsivo, proporcionando uma experiência agradável ao usuário.
  
 ## Estrutura do projeto
